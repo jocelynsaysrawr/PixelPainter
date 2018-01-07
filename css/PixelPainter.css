@@ -1,0 +1,10 @@
+
+.col {
+    float: left;
+}
+
+.cell {
+    height: 15px;
+    width: 15px;
+    border: solid .5px black;
+}
