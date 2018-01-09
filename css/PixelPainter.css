@@ -1,3 +1,6 @@
+#ppCanvas {
+    float: left;
+}
 
 .col {
     float: left;
@@ -6,5 +9,19 @@
 .cell {
     height: 15px;
     width: 15px;
-    border: solid .5px black;
+    border: .5px solid black;
+}
+
+#colorCanvas {
+    float: left;
+    padding-left: 30px;
+}
+
+.colorCell {
+    float: right;
+    height: 20px;
+    width: 20px;
+    border: 0.5px solid grey;
+    margin: 2px;
+    border-radius: 50%;
 }
